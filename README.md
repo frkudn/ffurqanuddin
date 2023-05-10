@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 # 💫 About Me:
 “Welcome to the dazzling GitHub profile of Furqan Uddin, a Flutter developer with a flair for crafting mesmerizing<br>and top-of-the-line mobile applications. With a keen interest in software development<br>and a devotion to elegant code, I aim to deliver amazing user experiences through my projects.<br>This GitHub repository is a splendid display of my work and my involvement in the dynamic Flutter community.<br>I am always eager to learn new skills and improve my knowledge of Dart and Flutter.”
 

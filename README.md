@@ -1,4 +1,3 @@
-![Header](./github-header-image.png)
 ![Header](./github-header-gif.gif)
 # 💫 About Me:
 A Moderate Flutter Developer's Primer

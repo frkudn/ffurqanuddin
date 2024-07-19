@@ -3,8 +3,7 @@
 A Moderate Flutter Developer's Primer
 
 
-## 🌐 Socials:
-<br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ffurqanuddin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@furqanuddin) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ffurqanuddin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ffurqanuddin) 
+## 🌐 Socials:<br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ffurqanuddin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@furqanuddin) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ffurqanuddin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ffurqanuddin) 
 
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)

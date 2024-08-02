@@ -13,6 +13,12 @@ As a seasoned Flutter developer, I'm now venturing into the backend landscape. M
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ffurqanuddin&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ffurqanuddin&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+
+<!--   green snake -->
+![Furqan's github activity graph](https://raw.githubusercontent.com/ffurqanuddin/ffurqanuddin/output/github-contribution-grid-snake.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ffurqanuddin&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 

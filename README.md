@@ -13,11 +13,6 @@ As a seasoned Flutter developer, I'm now venturing into the backend landscape. M
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ffurqanuddin&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ffurqanuddin&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-
-<!--   green snake -->
-![Furqan's github activity graph](https://raw.githubusercontent.com/ffurqanuddin/ffurqanuddin/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ffurqanuddin&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
@@ -28,9 +23,11 @@ As a seasoned Flutter developer, I'm now venturing into the backend landscape. M
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ffurqanuddin&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=ffurqanuddin&icon=10&color=13)](https://visitcount.itsvg.in)
+### Profile Views
+counting of visitors to this page in this section started from 2024
 
+![](https://count.getloli.com/get/ffurqanuddin.github.readme)
+</br>
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/furqanuddin) 
 
